@@ -1,0 +1,21 @@
+/* PokédexViewController.swift */
+
+"pokedex-viewcontroller.title.text" = "Pokédex";
+
+"pokedex-viewcontroller.error.title.text" = "Error!";
+
+"pokedex-viewcontroller.error.message.text" = "Could not fetch pokémon.";
+
+"pokedex-viewcontroller.ok.button.text" = "OK";
+
+"searchable-list.searchbar.placeholder.text" = "Search";
+
+/* ViewPokémonSpritesAction.swift */
+
+"pokemon-sprites-action.title.text" = "View Sprites";
+
+/* PokémonSpritesViewController.swift */
+
+"pokemon-sprites-action.none-available.text" = "No sprites found.";
+
+"pokemon-sprites-viewcontroller.title.text" = "Sprites";
