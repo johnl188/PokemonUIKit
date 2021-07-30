@@ -17,8 +17,8 @@ final class MenuTableViewCell: UITableViewCell {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
         
         contentView.addSubview(button)
-
         button.translatesAutoresizingMaskIntoConstraints = false
+        
         button.constrain(to: contentView)
     }
     
